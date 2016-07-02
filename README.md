@@ -14,3 +14,5 @@ pip install virtualenv
 ```bash
 pip install -r requirements.txt
 ```
+
+Developed at **Yomari Code Camp 2016***.
