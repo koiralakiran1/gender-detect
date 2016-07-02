@@ -9,6 +9,38 @@ a:hover {
   color: #fff;
 }
 
+#custom-search-input{
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 0px;
+    background-color: #fff;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
@@ -27,12 +59,16 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  /*background-color: #34495e;*/
+  /*background-color: #ED5565;*/
+  /*background-color: #434A54;*/
+  /*background-color: #28666E;*/
+  background-color: #2C717A;
 }
 body {
   color: #fff;
   text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
