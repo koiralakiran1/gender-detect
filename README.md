@@ -15,4 +15,10 @@ pip install virtualenv
 pip install -r requirements.txt
 ```
 
+####@authors
+- [Amit Chaudhary](http://studenton.com)
+- [Kiran Koirala](http://twitter.com/koiralakiran01)
+
+
 Developed at **Yomari Code Camp 2016**.
+
